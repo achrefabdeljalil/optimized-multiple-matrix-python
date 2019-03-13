@@ -17,11 +17,11 @@ This repository solve the problem of multiple of two matrix with optimized solut
       This method get size matrix and return a matrix with length(size) with a random value
 ## how to use module 
 
-  -First step
+-First step :
         Download the file "matrixLibrary.py"
-  -Second step 
+-Second step 
         Put the file "matrixLibrary.py" in the same directory of your project 
-  -Third step 
+-Third step 
         Add this line in the head of your project file 
       
 ```
