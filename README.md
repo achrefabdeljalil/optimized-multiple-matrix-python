@@ -15,4 +15,10 @@ This repository solve the problem of multiple of two matrix with optimized solut
       This method return a line from matrix with type 'List'
   - create_random_matrix(size_matrix) :
       This method get size matrix and return a matrix with length(size) with a random value
+# how to use module 
+  + First step 
+      put the file "matrixLibrary.py" in the same directory of your project 
+  + Second step 
+      add this line in the head of your project file " from matrixLibrary import 'name of methode that you want to use it' "
+      EXEMPLE : " from matrixLibrary import display_matrix "
   
