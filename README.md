@@ -18,11 +18,11 @@ This repository solve the problem of multiple of two matrix with optimized solut
 ## how to use module 
 
   -First step
-      Download the file "matrixLibrary.py"
+        Download the file "matrixLibrary.py"
   -Second step 
-      put the file "matrixLibrary.py" in the same directory of your project 
+        Put the file "matrixLibrary.py" in the same directory of your project 
   -Third step 
-      add this line in the head of your project file 
+        Add this line in the head of your project file 
       
 ```
 from matrixLibrary import 'name of methode that you want to use it' 
