@@ -1,6 +1,7 @@
 # optimized-multiple-matrix-python
 This repository solve the problem of multiple of two matrix with optimized solution
-# method of library
+# method of library 
+  -- The form of Matrix must be : EXEMPLE matrix = [list,list,list] = [[1,2,3],[9,7,3],[8,5,0]] 
   - multiple_matrix(params)
       This method multiple two matrix 
   - multiple_line_columns(params)
